@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tauqeer Abbas
 =====================================================================================================================================
 
-Data Engineer
+Data Engineer / Web Scraping Specialist
 -------------
 
 I've been creating robust web scrapers developing scalable data pipelines for over 5 years from target source to final destination working with databases like Postgresql, Mongodb, Mysql. My tech stack involves mainly Python and BeautifulSoup, Selectolax, Scrapy, Playwright, Selenium. I am more passionate about building asynchronous data solutions.
