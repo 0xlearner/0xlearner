@@ -1,32 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there!
-=====================================================================================================================================
+# Hi there, I'm 0xlearner! 👋
 
-Data Engineer / Web Scraping Specialist
--------------
+Welcome to my GitHub profile! I'm a passionate data engineer with a focus on building robust data pipelines and backend systems. My expertise lies in web scraping, data extraction, data cleaning, and data transformations. I also work with backend frameworks like FastAPI and Django to create efficient APIs.
 
-I've been creating robust web scrapers developing scalable data pipelines for over 5 years from target source to final destination working with databases like Postgresql, Mongodb, Mysql. My tech stack involves mainly Python and BeautifulSoup, Selectolax, Scrapy, Playwright, Selenium. I am more passionate about building asynchronous data solutions.
+## 🔧 Technologies & Tools
 
-*   🌍  I'm based in Pakistan
-*   ✉️  You can contact me at [zeroxlearner@gmail.com](mailto:zeroxlearner@gmail.com)
-*   🧠  I'm learning PySpark, Databricks, Rust
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-                    </p>
-                    
-  ### Socials
-                  
-                  
-<p align="left"><a href="https://www.github.com/0xlearner" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.stackoverflow.com/users/18183763/x-somtheing" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+## 🌱 Currently Learning
+
+- **Advanced Data Engineering**: Enhancing my skills in building scalable data pipelines.
+- **Machine Learning**: Exploring data science and AI.
+- **Cloud Computing**: Working with cloud platforms to deploy and manage data solutions.
+- **Rust**: Adding Rust to my toolkit for system-level programming.
+
+## 💼 Projects
+
+Here are some of my notable projects:
+
+- [**Web Scraping Tool**](https://github.com/0xlearner/web-scraping-tool): A tool for scraping data from various websites and storing it in a structured format.
+- [**Data Cleaning Pipeline**](https://github.com/0xlearner/data-cleaning-pipeline): A pipeline for cleaning and transforming raw data into usable datasets.
+- [**API Backend with FastAPI**](https://github.com/0xlearner/api-backend-fastapi): A backend API built with FastAPI for managing data and providing endpoints for data access.
+
+## 📈 GitHub Stats
+
+![0xlearner's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xlearner&show_icons=true&theme=dark)
+
+## 📫 How to Reach Me
+
+- **Email**: zeroxlearner@gmail.com
+- **LinkedIn**: [Tauqeer Abbas](https://www.linkedin.com/in/tauqeer-abbas-a26045230/)
+- **Stack Overflow**: [x-somtheing](https://stackoverflow.com/users/18183763/x-somtheing)
+
+## ✨ Fun Fact
+
+I love exploring new technologies and working on challenging projects.
+
+---
+
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
